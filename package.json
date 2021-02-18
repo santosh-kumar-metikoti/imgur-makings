@@ -1,0 +1,24 @@
+{
+  "name": "ms_imgur---backend_delphinus_tep_online_full-time_2021_7",
+  "version": "1.0.0",
+  "description": "## Learning Competencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e js,mjs,json,html index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Imgur---backend_Delphinus_Tep_Online_Full-time_2021_7.git"
+  },
+  "author": "santosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Imgur---backend_Delphinus_Tep_Online_Full-time_2021_7/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Imgur---backend_Delphinus_Tep_Online_Full-time_2021_7#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
